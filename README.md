@@ -4,4 +4,4 @@
 * Now run the script. The horizontal guide you just created should now follow the cursor!
 
 
->>>  this code uses borrowed code from a thread in the Krita forum... it's been sticked together with bubble gum... I don't remember who wrote the code for getting the cursor's position on the canvas, sorry! </3 But I must say I am eternally thankful you did so!
+> this code uses borrowed code from a thread in the Krita forum... it's been sticked together with bubble gum... I don't remember who wrote the code for getting the cursor's position on the canvas, sorry! </3 But I must say I am eternally thankful you did so!
